@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978792666323",
+    "project_id": "oblaco-f0a9b",
+    "storage_bucket": "oblaco-f0a9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978792666323:android:6a008a8fa17c7a04b57026",
+        "android_client_info": {
+          "package_name": "com.example.oblaco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw2Ycv19QJBvvNpsV9Mjz19gV4rUKrgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
